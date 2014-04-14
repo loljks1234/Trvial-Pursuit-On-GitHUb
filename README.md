@@ -20,3 +20,11 @@ Evidence: http://www.w3schools.com/html/html_attributes.asp
 
 <h2>Category: CSS</h2>
 
+What is CSS?
+Answer: Cascading Style Sheets that define how to display HTML elements
+Evidence: http://www.w3schools.com/css/css_intro.asp
+
+What are the three ways to insert CSS?
+Answer: External style sheet, Interanl style sheet, and Inline style
+Evidence: http://www.w3schools.com/css/css_howto.asp
+
