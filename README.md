@@ -28,3 +28,12 @@ What are the three ways to insert CSS?
 Answer: External style sheet, Interanl style sheet, and Inline style
 Evidence: http://www.w3schools.com/css/css_howto.asp
 
+Compare Internal Style Sheet and Inline Style. Which is better?
+Answer: Internal Style Sheet should be used with a single document sheet, and is better than Inline style because it loses style advantages by mixing content with presentation.
+Evidence: http://www.w3schools.com/css/css_howto.asp
+
+How can you specify multiple styles?
+Answer: Inside HTML element or the section of HTML page
+Evidenve: http://www.w3schools.com/css/css_howto.asp
+
+<h2>Category: Git</h2>
