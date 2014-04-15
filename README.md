@@ -43,4 +43,13 @@ Evidenve: http://www.w3schools.com/css/css_howto.asp
  Evidence: http://git-scm.com/book/en/Getting-Started-Git-Basics
  
  Name the three states that files can reside in.
- Answer: Commited, modified, & Staged.
+ Answer: Committed, modified, & Staged.
+ Evidence: http://git-scm.com/book/en/Getting-Started-Git-Basics
+ 
+ What are the differences between the aforementioned states?
+ Answer: Committed means the data is safely stored in your local database while modified means you have changed the file but have not committed yet, and staged is when you have marked a modified file to go into your next commit snapshot.
+ Evidence: http://git-scm.com/book/en/Getting-Started-Git-Basics
+ 
+ How do we use GitHub.com?
+ Answer: To make design web pages easily.
+ Evidence: Mr. Urner
