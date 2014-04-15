@@ -53,3 +53,18 @@ Evidenve: http://www.w3schools.com/css/css_howto.asp
  How do we use GitHub.com?
  Answer: To make design web pages easily.
  Evidence: Mr. Urner
+
+<h2>Category: History of Internet and World Wide Web (www)</h2>
+
+Who is the main creator/inventor of the World Wide Web?
+Answer: Tim Berners-Lee
+Evidence: http://inventors.about.com/od/istartinventions/a/internet.htm
+
+What was the first prototype of the Internet?
+Answer: ARPAnet
+Evidence: http://www.internethalloffame.org/brief-history-internet
+
+When was email first developed, and by who?
+Answer: 1971 by Ray Tomlinson
+Evidence: http://sixrevisions.com/resources/the-history-of-the-internet-in-a-nutshell/
+
