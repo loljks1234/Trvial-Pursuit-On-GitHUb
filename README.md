@@ -1,4 +1,4 @@
-Trvial-Pursuit-On-GitHUb
+Trvial-Pursuit-On-GitHub
 ========================
 <h2>Category HTML</h2>
 
@@ -37,3 +37,10 @@ Answer: Inside HTML element or the section of HTML page
 Evidenve: http://www.w3schools.com/css/css_howto.asp
 
 <h2>Category: Git</h2>
+
+ How is Git different from other systems?
+ Answer: Git saves any changes saved/commited by taking a 'snapshot' of the project then stores a reference to the altered verions. and any changes not made are not copied but stores a link identical to the unchanged data already stored.
+ Evidence: http://git-scm.com/book/en/Getting-Started-Git-Basics
+ 
+ Name the three states that files can reside in.
+ Answer: Commited, modified, & Staged.
