@@ -1,6 +1,6 @@
 Trvial-Pursuit-On-GitHub
 ========================
-<h2>Category HTML</h2>
+<h2>Category: HTML</h2>
 
 What is the HTML tag for heading?
 Anwser: < h1 >...</ h1 > (remove spaces)  
