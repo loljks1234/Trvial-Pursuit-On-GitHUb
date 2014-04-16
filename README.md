@@ -68,3 +68,9 @@ When was email first developed, and by who?
 Answer: 1971 by Ray Tomlinson
 Evidence: http://sixrevisions.com/resources/the-history-of-the-internet-in-a-nutshell/
 
+Who owns the internet?
+Answer: No one!
+Evidence: http://transition.fcc.gov/cgb/kidszone/history_internet.html
+
+<h2>Category: Network Infrastructure</h2>
+
