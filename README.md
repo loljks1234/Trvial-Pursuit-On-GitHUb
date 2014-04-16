@@ -74,3 +74,8 @@ Evidence: http://transition.fcc.gov/cgb/kidszone/history_internet.html
 
 <h2>Category: Network Infrastructure</h2>
 
+What is Network Infrastructure (NI)?
+Answer: NI is an interconnected group of computer systems linked by various parts of a telecommunications architecture.
+Evidence: http://www.wisegeek.org/what-is-network-infrastructure.htm
+
+<h2>Category: Design & Typography (DT)</h2>
