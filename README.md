@@ -78,6 +78,16 @@ What is Network Infrastructure (NI)?
 Answer: NI is an interconnected group of computer systems linked by various parts of a telecommunications architecture.
 Evidence: http://www.wisegeek.org/what-is-network-infrastructure.htm
 
+What are the limitations of a hub?
+Answer: A hub connects two computers but limit the flow of data of any one system.
+Evidence: http://www.wisegeek.org/what-is-network-infrastructure.htm
+
+Give an example of common network infrastructure.
+Answer: Several laptops and/or computers sharing the same Internet connection.
+
+Why is network security so important?
+Answer: A network security is like a vrus protection, or more specificallly hacker protection, for sensitive and extremely confidential information.
+
 <h2>Category: Design & Typography (DT)</h2>
 
 What is Typography?
