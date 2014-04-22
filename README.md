@@ -83,3 +83,15 @@ Evidence: http://www.wisegeek.org/what-is-network-infrastructure.htm
 What is Typography?
 Answer: Typograohy is the design of words to cause a certain effect,such as a newspaper's font makes the article more serious and severe.
 Evidence: http://design.tutsplus.com/articles/a-20-minute-intro-to-typography-basics--psd-3326
+
+What is the difference between font and typface?
+Answer: Typface is a family of fonts while a font is a specific word design. 
+Evidence: http://design.tutsplus.com/articles/a-20-minute-intro-to-typography-basics--psd-3326
+
+What is kerning?
+Answer: Kerning is the spacing between individual letters.
+Evidence: http://design.tutsplus.com/articles/a-20-minute-intro-to-typography-basics--psd-3326
+
+What is rag?
+Answer: Rag is the uneven vertical edge of a block of text, usually the right-side of the text.
+Evidence: http://design.tutsplus.com/articles/a-20-minute-intro-to-typography-basics--psd-3326
