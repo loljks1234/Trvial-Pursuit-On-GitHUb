@@ -79,3 +79,7 @@ Answer: NI is an interconnected group of computer systems linked by various part
 Evidence: http://www.wisegeek.org/what-is-network-infrastructure.htm
 
 <h2>Category: Design & Typography (DT)</h2>
+
+What is Typography?
+Answer: Typograohy is the design of words to cause a certain effect,such as a newspaper's font makes the article more serious and severe.
+Evidence: http://design.tutsplus.com/articles/a-20-minute-intro-to-typography-basics--psd-3326
