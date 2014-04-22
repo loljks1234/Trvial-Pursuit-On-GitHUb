@@ -87,6 +87,7 @@ Answer: Several laptops and/or computers sharing the same Internet connection.
 
 Why is network security so important?
 Answer: A network security is like a vrus protection, or more specificallly hacker protection, for sensitive and extremely confidential information.
+Evidence: http://www.wisegeek.com/what-is-network-security.htm
 
 <h2>Category: Design & Typography (DT)</h2>
 
